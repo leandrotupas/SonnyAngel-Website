@@ -1,0 +1,1 @@
+export const Angel = mongoose.model('Angel', {name: String});
